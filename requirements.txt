@@ -1,2 +1,5 @@
 watchdog
 streamlit
+mpld3
+imageio
+matplotlib
